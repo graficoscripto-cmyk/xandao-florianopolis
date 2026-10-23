@@ -1,0 +1,16 @@
+{
+  "name": "Boat Floripa by Xandão | Passeios de Lancha em Florianópolis",
+  "short_name": "Boat Floripa",
+  "description": "Passeios de lancha privativos em Florianópolis com o Comandante Xandão (+15 anos de experiência no mar).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#021324",
+  "theme_color": "#00D4E8",
+  "icons": [
+    {
+      "src": "img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
